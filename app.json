@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/music/music",
+     "pages/weather/weather",
+     "pages/regeocoding/regeocoding"
+      ],
+  "window": {
+    "navigationBarTitleText": "weatherAndmusic",
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#FA8072"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/music/music",
+        "text": "music"
+      },
+      {
+        "pagePath": "pages/weather/weather",
+        "text": "weather"
+      },
+      {
+       "pagePath": "pages/regeocoding/regeocoding",
+       "text":"regeocoding"
+      }
+    ]
+  },
+  
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true,
+  "navigateToMiniProgramAppIdList": [
+    "wxe5f52902cf4de896"
+  ]
+}

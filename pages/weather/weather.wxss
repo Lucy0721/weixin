@@ -1,0 +1,18 @@
+.weather{
+    width: 100%;
+    text-align: center;
+    line-height: 40px;
+    padding-top: 100px;
+    color:LightSalmon
+#FFA07A;
+    font-weight: 600;
+    height: 100%;
+}
+.jx_card{
+  top: 0rpx;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  opacity:0.66;
+  background-attachment:fixed;
+}

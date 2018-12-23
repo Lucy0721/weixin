@@ -1,0 +1,12 @@
+.map_container{
+height: 1150rpx;
+width: 100%;
+}
+
+.map {
+height: 100%;
+width: 100%;
+}
+.rgc_info {
+    padding: 0 5px;
+}
